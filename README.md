@@ -12,7 +12,6 @@
 * 인원 : 6명
 
 <img width="800" alt="image" src="https://github.com/itnaupna/wepli/assets/124419012/2ee8e84d-4993-463b-adf6-7e2579fe1478">
-<img width="800" alt="Screenshot at Sep 03 15-48-01" src="https://github.com/itnaupna/wepli/assets/124419012/2b150c82-ad23-45ac-acaa-10b7421c08b7">
 
 ### physical ERD
 
@@ -21,46 +20,13 @@
 ## MEMBERS
 
 <table width="800">
-  <tr style="align-items: center;">
-    <td colspan="3" >백엔드</td>
-  </tr>
-  <tr>
-    <td width="100">팀원</td>
-    <td>기능</td>
-    <td>Github</td>
-  </tr>
-  <tr>
-    <td>최용주</td>
-    <td>채팅, 유튜브api, 풀스택</td>
-    <td><a href="https://github.com/itnaupna">itnaupna</td>
-  </tr>
-  <tr>
-    <td>박재희</td>
-    <td>JWT토큰, Spring security,이메일인증, 플레이리스트 내부, 스테이지 내부, 마이페이지 내부, 네이버 소셜로그인</td>
-    <td><a href="https://github.com/jaehhee">jaehhee</td>
-  </tr>
-   <tr>
-    <td>박성준</td>
-    <td>Jwt토큰, Spring security. 로그인, 마이페이지 내부, 플레이리스트 내부, 네이버클라우드 버킷 이미지 추가 삭제</td>
-    <td><a href="https://github.com/Psj109079">Psj</td>
-  </tr>
     <tr>
     <td colspan="3" style="text-align: center;">프론트엔드</td>
-  </tr>
-    <tr text-align="center">
-    <td>이상혁</td>
-    <td>로그인, 회원가입, 메인페이지, 사이드바, 마이페이지</td>
-    <td><a href="https://github.com/helloa1109">helloa1109</td>
   </tr>
   <tr>
     <td>유찬민</td>
     <td>플레이리스트(랭킹,검색,내 플리,생성,수정,상세)</td>
     <td><a href="https://github.com/Deko252">Deko252</td>
-  </tr>
-   <tr>
-    <td>김석진</td>
-    <td>스테이지(리스트,수정,생정)</td>
-    <td><a href="https://github.com/jameskim0208">jameskim0208</td>
   </tr>
 </table>
 
@@ -106,6 +72,24 @@
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 </div>
 
+### Images
+### * 플레이리스트 랭킹페이지
+<img src="https://github.com/Deko252/jumjin/assets/114369279/fb5c1cd7-aa40-47c3-9a59-1ea6205fc596?raw=true">
+
+### * 플레이리스트 생성
+<img src="https://github.com/Deko252/jumjin/assets/114369279/8fe9544c-e381-4973-bf80-dbefeaee2756?raw=true">
+
+### * 플레이리스트 검색페이지
+<img src="https://github.com/Deko252/jumjin/assets/114369279/c3bfadf2-cc8e-45a1-9e68-a19e8c1942f8?raw=true">
+
+### * 플레이리스트 곡추가/곡수정
+<img src="https://github.com/Deko252/jumjin/assets/114369279/4c3043a8-bce3-4380-991b-a10c07b58d36?raw=true">
+
+### * 플레이리스트 수정
+<img src="https://github.com/Deko252/jumjin/assets/114369279/7d918a6b-e7ed-4a2a-8aa5-40e13ad4447c?raw=true">
+
+### * 플레이리스트 수정
+<img src="https://github.com/Deko252/jumjin/assets/114369279/38511c09-e5fb-43ba-bf06-f496ff701329?raw=true">
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
