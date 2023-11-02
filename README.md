@@ -5,7 +5,7 @@
 
 <br/>
 <a href="https://www.youtube.com/watch?v=InJvwMtLbrA">유튜브 시연연상</a><br/>
-<a href="wepli.today">배포주소</a>
+<a href="wepli.today">배포주소(현재불가능)</a>
 
 ## Development Schedule
 * 기간 : 2023.06.30 ~ 2023.08.04
