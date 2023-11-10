@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=WEPLI&fontSize=90" />
+<img src="https://github.com/Deko252/jumjin/assets/114369279/03ddd89a-fc0d-4f21-8d9f-d063d7f90d0c" />
 
 # WEPLI
 <h3>위플리는 여러 사람들이 함께 노래를 듣거나 영상을 시청할 수 있는 서비스를 제공합니다.<br/> 여러 사람들과 플레이리스트를 공유하고, 함께 음악을 듣고 즐겨보세요.<h3/>
@@ -74,22 +74,19 @@
 
 ### Images
 ### * 플레이리스트 랭킹페이지
-<img src="https://github.com/Deko252/jumjin/assets/114369279/fb5c1cd7-aa40-47c3-9a59-1ea6205fc596?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/75b3d8d5-c05f-49be-bcd7-25867d9ecd5a?raw=true">
 
 ### * 플레이리스트 생성
-<img src="https://github.com/Deko252/jumjin/assets/114369279/8fe9544c-e381-4973-bf80-dbefeaee2756?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/cdcebc0c-f8b3-460f-9370-096a443dedfe?raw=true">
 
 ### * 플레이리스트 검색페이지
-<img src="https://github.com/Deko252/jumjin/assets/114369279/c3bfadf2-cc8e-45a1-9e68-a19e8c1942f8?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/3a2121fe-dc01-40e1-b2d6-74602ae721f4?raw=true">
 
 ### * 플레이리스트 곡추가/곡수정
-<img src="https://github.com/Deko252/jumjin/assets/114369279/4c3043a8-bce3-4380-991b-a10c07b58d36?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/95a076ab-21e3-44af-89d7-89f043791795?raw=true">
+
+### * 플레이리스트 재생/좋아요
+<img src="https://github.com/Deko252/jumjin/assets/114369279/44457af5-bed3-4abd-817c-ce06f2bb2c0f?raw=true">
 
 ### * 플레이리스트 수정
-<img src="https://github.com/Deko252/jumjin/assets/114369279/7d918a6b-e7ed-4a2a-8aa5-40e13ad4447c?raw=true">
-
-### * 플레이리스트 수정
-<img src="https://github.com/Deko252/jumjin/assets/114369279/38511c09-e5fb-43ba-bf06-f496ff701329?raw=true">
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+<img src="https://github.com/Deko252/jumjin/assets/114369279/383a7b11-fb0a-4131-86ec-40673fb76631?raw=true">
